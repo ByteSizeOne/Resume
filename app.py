@@ -83,3 +83,16 @@ st.write(
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sence of initiative on tasks
 """)
+
+# --- SKILLS ---
+
+st.write("#")
+st.subheader("Hard Skills")
+st.write(
+    """
+- 🟡 Programming: Python (Scikit-learn, Pandas), SQL, VBA
+- 🔴 Data visualisation: PowerBI, MS Excel, Ploty
+- 🟢 Modeling: Logistic, regression, linear regression, decition trees
+- 🟣 Databases: Postgres, MongoDB, MySQL   
+"""
+)
