@@ -96,3 +96,25 @@ st.write(
 - 🟣 Databases: Postgres, MongoDB, MySQL   
 """
 )
+
+# --- WORK HISTORY ---
+
+st.write("#")
+st.subheader("Work History")
+st.write("---")
+
+# --- JOB 1 ---
+
+st.write("🚧", "** Senior Data Analyst | Ross Industries**")
+st.write("02/2020 - Present")
+st.write(
+    """
+- 👉 Used PowerBI and SQL to redefine and track KPIs surrounding marketing initiatives,
+and supplied recommendations to boost landing page conversion by 38%
+- 👉 Led a team of 4 analyst to brainstorm potential marketing and sales improvements,
+and implementated A/B tests to generate 15% more client leads
+- 👉 Redesigned data model through integrations that improved pridictions by 12%
+"""
+)
+
+
