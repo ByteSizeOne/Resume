@@ -105,7 +105,6 @@ st.write("---")
 
 # --- JOB 1 ---
 
-st.write("#")
 st.write("🚧", "**Senior Data Analyst | Ross Industries**")
 st.write("02/2020 - Present")
 st.write(
