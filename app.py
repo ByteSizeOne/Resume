@@ -118,3 +118,18 @@ and implementated A/B tests to generate 15% more client leads
 )
 
 
+# --- JOB 3 ---
+
+st.write("#")
+st.write("🚧", "**Data Analyst | Chegg**")
+st.write("04/2015 - 01/2018")
+st.write(
+    """
+- 👉 Devised KPIs using SQL across company website in collaboration with cross-functional
+teams to achieve a 120% jump in organic traffic
+- 👉 Analyzed, documented, and reported user survey results to improve customer
+communication processes by 18%
+- 👉 Collaborated with analyst team to oversee end-to-end process surrounding customers'
+return data
+"""
+)
