@@ -149,3 +149,12 @@ communication processes by 18%
 return data
 """
 )
+
+# --- PROJECTS AND ACCOMPLISHMENTS
+
+st.write("#")
+st.subheader("Projects & Accomplishments")
+st.write("---")
+for project, link in PROJECTS.items():
+    st.write(f"[{project}][{link}]")
+    
