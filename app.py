@@ -105,7 +105,7 @@ st.write("---")
 
 # --- JOB 1 ---
 
-st.write("🚧", "** Senior Data Analyst | Ross Industries**")
+st.write("🚧", "**Senior Data Analyst | Ross Industries**")
 st.write("02/2020 - Present")
 st.write(
     """
@@ -114,6 +114,21 @@ and supplied recommendations to boost landing page conversion by 38%
 - 👉 Led a team of 4 analyst to brainstorm potential marketing and sales improvements,
 and implementated A/B tests to generate 15% more client leads
 - 👉 Redesigned data model through integrations that improved pridictions by 12%
+"""
+)
+
+# --- JOB 2 ---
+
+st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
+st.write("01/2018 - 02/2022")
+st.write(
+    """
+- 👉 Build data models and maps to generate meaningful insights from customer data,
+boosting successful sales efforts by 12%
+- 👉 Modeled targets likely to renew, and presented analysis to leadership, which led to
+a YoY revenue increase of $300K
+- 👉 Complied, studied, and inferred large amounts of data, modelling information to drive
+auto policy pricing
 """
 )
 
