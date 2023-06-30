@@ -105,6 +105,7 @@ st.write("---")
 
 # --- JOB 1 ---
 
+st.write("#")
 st.write("🚧", "**Senior Data Analyst | Ross Industries**")
 st.write("02/2020 - Present")
 st.write(
@@ -119,6 +120,7 @@ and implementated A/B tests to generate 15% more client leads
 
 # --- JOB 2 ---
 
+st.write("#")
 st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
 st.write("01/2018 - 02/2022")
 st.write(
